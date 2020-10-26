@@ -1,6 +1,5 @@
 # SCLLang
 
-Developed by Engla Ling, KTH
 
 This project has the following structure:
 
