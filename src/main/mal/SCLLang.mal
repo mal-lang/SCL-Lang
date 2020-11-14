@@ -1,6 +1,5 @@
 #id: "org.mal-lang.scllang"
 #version: "1.0.0"
-//Author Engla Ling englal@kth.se
 //Last changes 200326
 
 category Functional {
