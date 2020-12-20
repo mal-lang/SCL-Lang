@@ -1,6 +1,5 @@
 #id: "org.mal-lang.scllang"
 #version: "1.0.0"
-//Last changes 200326
 
 category Functional {
         asset Substation {
