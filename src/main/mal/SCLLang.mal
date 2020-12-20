@@ -106,7 +106,7 @@ associations {
         LogicalNode [logicalNode] * <-- Communication --> * [accessPoint] AccessPoint
         LogicalNode [logicalNode] 1 <-- Handles --> 1..* [data] Data
         LogicalNode [logicalNode] * <-- Communication --> 1 [conNode] ConnectivityNode
-        LogicalNode [logicalNode] * <-- IsIn --> 1 [transformer] Transformer
+        LogicalNode [logicalNode] * <-- Communication --> 1 [transformer] Transformer
         LogicalNode [logicalNode] * <-- Communication --> * [equipment] Equipment
         LogicalNode [logicalNode] * <-- Communication --> * [subEquipment] SubEquipment
         Router [router] 0..1 <-- Communication --> 1 [accessPoint] AccessPoint
